@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"test2.sol": "Lottery_Cont"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"test2.sol": {
+			"keccak256": "0xc28644537d614c4b0f1403d4fb5b13e7bb4bf9d88d73b71e4e32d745c0eb3094",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://b51b31ade7f7823a03c814060a2fcd4e784071af4740375e5afcdc570141126c",
+				"dweb:/ipfs/QmQ4CDFZnBWaniBbJiFRjVpicnQwfa38zqbc7p5ThUsrZh"
+			]
+		}
+	},
+	"version": 1
+}
